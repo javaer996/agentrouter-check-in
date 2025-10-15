@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AngentRouter 自动签到脚本
+AgentRouter 自动签到脚本
 """
 
 import asyncio
